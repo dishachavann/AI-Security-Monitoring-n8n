@@ -1,3 +1,4 @@
+```text
 # AI Security Monitoring & Alerting Workflow
 
 An AI-powered security monitoring workflow built with n8n that receives
@@ -5,7 +6,6 @@ security events through a webhook, analyzes them using an AI model,
 classifies the threat level, and sends an email alert.
 
 ## Architecture
-```text
 Webhook
    ↓
 AI Security Analysis
@@ -49,6 +49,7 @@ Gmail Alert   Gmail Notification
 workflow/ — n8n workflow JSON
 screenshots/ — Workflow screenshot
 examples/ — Sample security-event data
+
 🔐 Security
 
 No API keys, passwords, OAuth tokens, or other sensitive credentials should be committed to this repository.
