@@ -5,7 +5,7 @@ security events through a webhook, analyzes them using an AI model,
 classifies the threat level, and sends an email alert.
 
 ## Architecture
-
+```text
 Webhook
    ↓
 AI Security Analysis
