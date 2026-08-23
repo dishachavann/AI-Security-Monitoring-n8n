@@ -1,0 +1,9 @@
+{
+  "event_type": "SSH_LOGIN_ATTEMPT",
+  "source_ip": "192.168.1.20",
+  "username": "admin",
+  "status": "failed",
+  "attempts": 5,
+  "timestamp": "2026-08-23T10:30:00Z",
+  "message": "Multiple failed SSH login attempts detected from the same IP address."
+}
